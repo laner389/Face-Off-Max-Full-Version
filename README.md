@@ -257,3 +257,6 @@ This repository serves as the official landing page for Face Off Max. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Face Off Max today!**
+
+---
+**Last updated:** 2026-09-10 07:39:33 UTC
